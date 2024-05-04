@@ -1,0 +1,2 @@
+C:\Users\KamilCeglarski\source\repos\SFML_Test\Debug\SFML_TEST.exe
+C:\Users\KamilCeglarski\source\repos\PongGame\Debug\SFML_TEST.exe

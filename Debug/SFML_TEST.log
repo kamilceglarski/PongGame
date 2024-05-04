@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\KamilCeglarski\source\repos\PongGame\Game.cpp(3,72): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+C:\Users\KamilCeglarski\source\repos\PongGame\Game.cpp(3,48): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+C:\Users\KamilCeglarski\source\repos\PongGame\Game.cpp(152,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  SFML_TEST.vcxproj -> C:\Users\KamilCeglarski\source\repos\PongGame\Debug\SFML_TEST.exe
